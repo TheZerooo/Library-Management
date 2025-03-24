@@ -1,4 +1,7 @@
-Library Management System
+** Library Management System **
+
+Technology Used:
+C++,OOPS,SQL
 
 Features of This Project:
 
